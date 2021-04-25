@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+header {
+    background:orange;
+}
+h1 {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+header, section, nav, aside, article, footer {
+    display: block;
+}
